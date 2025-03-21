@@ -3,7 +3,7 @@
 This repository contains figure generation scripts and Jupyter notebooks for the **CAMulator** publication. **CAMulator** is a machine-learning-based emulator of the Community Atmosphere Model version 6 (CAM6), designed to provide fast and accurate climate simulations.
 
 ## 📌 About
-This repository is specifically for generating figures related to the **CAMulator** study and its evaluation. If you are looking for the **CAMulator** model itself, please refer to the main repository (**[Link to Repo](https://github.com/NCAR/miles-credit/tree/climate_branch)**).
+This repository is specifically for generating figures related to the **CAMulator** study and its evaluation. If you are looking for the **CAMulator** model itself, please refer to the main repository (**[Link to Repo](https://github.com/NCAR/miles-credit/tree/climate_runs)**).
 
 ## 📂 Repository Structure
 ```
@@ -71,7 +71,7 @@ Open the relevant notebook and run the cells to generate the figures.
 - Include interactive visualizations.
 
 ## 🔗 Related Repositories
-- **[CAMulator Model Repository](https://github.com/NCAR/miles-credit/tree/climate_branch)**
+- **[CAMulator Model Repository](https://github.com/NCAR/miles-credit/tree/climate_runs)**
 
 ## 📄 Citation
 If you use **CAMulator** or figures from this repository in your research, please cite the corresponding publication:
